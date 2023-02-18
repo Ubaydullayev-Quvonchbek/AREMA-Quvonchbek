@@ -464,6 +464,34 @@ header {
     color: #000000;
 }
 
+footer {
+    background: #171717;
+}
+
+.foot-txt1 {
+    font-weight: 700;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 37px;
+    margin-bottom: 5px;
+}
+
+.foot-txt2 {
+    font-weight: 700;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #FF8562;
+    margin-top: 5px;
+    margin-bottom: 37px;
+}
+
 @media (max-width: 575px) {
     .res-center {
         text-align: center;
@@ -635,5 +663,19 @@ header {
     .txt6 {
         text-align: center;
         font-size: 15px;
+    }
+    .foot-txt1 {
+        font-size: 12px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .foot-txt2 {
+        font-size: 12px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FF8562;
     }
 }
