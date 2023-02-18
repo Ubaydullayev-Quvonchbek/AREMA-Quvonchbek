@@ -427,7 +427,7 @@ header {
     font-size: 46px;
     color: #000000;
     margin-bottom: 50px;
-    margin-top: 133px;
+    margin-top: 200px;
 }
 
 .txt2 {
@@ -615,5 +615,25 @@ header {
     .and {
         font-size: 12px;
         margin-bottom: 5px;
+    }
+    .txt1 {
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 27px;
+        text-align: center;
+        color: #000000;
+        margin-top: 50px;
+        margin-bottom: 25px;
+    }
+    .txt2 {
+        margin-top: 25px;
+    }
+    .txt2,
+    .txt3,
+    .txt4,
+    .txt5,
+    .txt6 {
+        text-align: center;
+        font-size: 15px;
     }
 }
