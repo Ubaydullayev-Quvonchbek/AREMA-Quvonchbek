@@ -427,6 +427,7 @@ header {
     font-size: 46px;
     color: #000000;
     margin-bottom: 50px;
+    margin-top: 133px;
 }
 
 .txt2 {
@@ -467,36 +468,30 @@ header {
     .res-center {
         text-align: center;
     }
-
     .res-none {
         display: none !important;
     }
-
     .nav-end {
         display: flex;
         justify-content: space-around;
     }
-
     .phone-number {
         font-size: 14px;
         color: #FFFFFF;
         margin-top: 30px;
     }
-
     .phone {
         font-weight: 700;
         font-size: 14px;
         color: #FCCA3A;
         margin-top: 30px;
     }
-
     .remont {
         font-weight: 700;
         font-size: 30px;
         text-align: center;
         color: #FFFFFF;
     }
-
     .score {
         font-weight: 500;
         font-size: 18px;
@@ -504,18 +499,15 @@ header {
         color: #FFFFFF;
         padding-bottom: 20px;
     }
-
     .three-cards {
         display: none;
     }
-
     .fa-circle {
         color: #FCCA3A;
         margin-top: 2px;
         font-size: 16px;
         margin-right: 5px;
     }
-
     .command {
         font-weight: 500;
         font-size: 16px;
@@ -524,7 +516,6 @@ header {
         color: #FFFFFF;
         padding-bottom: 15px;
     }
-
     .ochko {
         font-weight: 700;
         font-size: 18px;
@@ -537,7 +528,6 @@ header {
         padding: 10px 50px;
         margin-bottom: 60px;
     }
-
     .left-txt {
         font-weight: 700;
         font-size: 22px;
@@ -546,12 +536,10 @@ header {
         margin-top: 56px;
         margin-bottom: 10px;
     }
-
     .salom {
         display: flex;
         justify-content: center;
     }
-
     .opt2 {
         font-weight: 500;
         font-size: 15px;
@@ -559,7 +547,6 @@ header {
         color: #FFFFFF;
         margin-bottom: 50px;
     }
-
     .еще {
         font-weight: 700;
         font-size: 18px;
@@ -571,14 +558,12 @@ header {
         margin-top: 30px;
         margin-bottom: 60px;
     }
-
     .kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL {
         font-weight: 700;
         font-size: 24px;
         text-align: center;
         color: #000000;
     }
-
     .ajax {
         font-weight: 300;
         font-size: 22px;
@@ -586,12 +571,10 @@ header {
         color: #000000;
         transform: rotate(-0.03deg);
     }
-
     .sect2 {
         background: linear-gradient(88.18deg, #1770B6 -15.04%, #1770B6 -15.03%, #2D8FDB 52.18%, #1871B7 112.73%);
         margin-bottom: 56px;
     }
-
     .sxema {
         font-weight: 700;
         font-size: 22px;
@@ -599,7 +582,6 @@ header {
         color: #FFFFFF;
         margin-top: 56px;
     }
-
     .bla {
         font-weight: 500;
         font-size: 14px;
@@ -607,7 +589,6 @@ header {
         color: #FFFFFF;
         transform: rotate(-0.03deg);
     }
-
     .pidaraz1 {
         background: #FFFFFF;
         width: 100%;
@@ -616,11 +597,9 @@ header {
         border-radius: 8px 8px 0px 0px;
         padding-bottom: 15px;
     }
-
     .verybig-card {
         border: none;
     }
-
     .verybig-card-res {
         background: #FFFFFF;
         border-radius: 8px 8px 8px 8px;
@@ -629,12 +608,10 @@ header {
         padding-bottom: 0;
         margin-bottom: 60px;
     }
-
     .refre {
         font-size: 14px;
         margin-bottom: 5px;
     }
-
     .and {
         font-size: 12px;
         margin-bottom: 5px;
